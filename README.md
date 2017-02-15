@@ -1,2 +1,2 @@
-# griffin-library
-Griffin Library
+# griffin-widget
+Griffin Widget
